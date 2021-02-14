@@ -1,11 +1,15 @@
 /*
- * proj1.c      v.1.0
+ * Soubor:       Makefile
+ * Predmet:      Zaklady programovani (IZP) -- FIT VUT
+ * Projekt:      Jednoduchý textový editor
+ * Autor:        Tomas Beranek (xberan46)
+ * Email:        xberan46@stud.fit.vutbr.cz
+ * Datum:        25.10.1018
  *
- *Textovy editor pracujici se standartnim vstupem a vystupem,
- *prikazy jsou nacitany ze zadaneho souboru
- *
- *Tomáš Beránek  (xberan46)       25.10.2018
+ * Popis:        Jednoduchy textovy editor, ktery nacita vstupni text ze stdin a prikazy pro upravu
+ *               textu ze souboru, ktery je predan jako 1. argument programu
  */
+
 
 #include <stdio.h>
 #include <stdlib.h>
