@@ -1,7 +1,7 @@
 /*
- * Soubor:       Makefile
+ * Soubor:       proj1.c
  * Predmet:      Zaklady programovani (IZP) -- FIT VUT
- * Projekt:      Jednoduchý textový editor
+ * Projekt:      JednoduchÃ½ textovÃ½ editor
  * Autor:        Tomas Beranek (xberan46)
  * Email:        xberan46@stud.fit.vutbr.cz
  * Datum:        25.10.1018
