@@ -4,7 +4,7 @@
  * Projekt:      Jednoduchý textový editor
  * Autor:        Tomas Beranek (xberan46)
  * Email:        xberan46@stud.fit.vutbr.cz
- * Datum:        25.10.1018
+ * Datum:        25.10.2018
  *
  * Popis:        Jednoduchy textovy editor, ktery nacita vstupni text ze stdin a prikazy pro upravu
  *               textu ze souboru, ktery je predan jako 1. argument programu
